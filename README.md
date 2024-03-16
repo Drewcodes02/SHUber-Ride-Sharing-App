@@ -1,9 +1,9 @@
 # SHUber - Sheffield Hallam University's Ride-Sharing App
 
-Overview
+# Overview
 SHUber is a ride-sharing Android application developed for the Sheffield Hallam University student community. Inspired by Uber, SHUber connects riders with drivers within the university area, providing a convenient, safe, and accessible transportation option. The app incorporates features tailored to the specific needs of the university's diverse community, including support for individuals with special needs.
 
-Project Structure
+# Project Structure
 app: Main application module containing all the source code, resources, and configuration files.
 firebase: Integration files for Firebase, used for authentication, database, and storage solutions.
 models: Data models representing users (riders and drivers), trips, and feedback.
@@ -24,7 +24,7 @@ Setup
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/yourgithub/shuber.git
+git clone https://github.com/Drewcodes02/SHUber-Ride-Sharing-App.git
 Open the project in Android Studio:
 Start Android Studio and select "Open an existing Android Studio project".
 Navigate to the cloned repository and open it.
